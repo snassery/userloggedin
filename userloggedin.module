@@ -225,3 +225,4 @@ function userloggedin_block_view_alter(&$data, $block) {
 /**
  * @} End of "defgroup block_example".
  */
+}
